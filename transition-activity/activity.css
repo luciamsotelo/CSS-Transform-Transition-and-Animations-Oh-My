@@ -1,1 +1,13 @@
 
+.transform {
+    /* background-color: ghostwhite;
+    color: black;
+    filter: none;  */
+    transition-duration: 2s;
+}
+
+
+.transform:hover {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+}
